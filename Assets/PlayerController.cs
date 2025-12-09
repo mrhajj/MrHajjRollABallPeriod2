@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
-
+//Merge Conflict
 public class PlayerController : MonoBehaviour
 {
 
